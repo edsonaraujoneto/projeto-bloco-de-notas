@@ -19,7 +19,7 @@ Para visualizar, [clique aqui](http://localhost:5174/)
 4. HTML ✅
 5. TypeScript ✅
 
-# Author 🤓
+# Autor 🤓
 
 <p align="center">
   <img width="200px" alt="Edson Araujo" title="Edson Araujo" src="https://avatars.githubusercontent.com/u/137104822?v=4" />
