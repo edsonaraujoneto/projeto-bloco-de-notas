@@ -1,14 +1,16 @@
 # Sobre 🔍
 
-O projeto bloco de notas foi desenvolvido durante a NLW Expert, um evento de programação promovido pela **RocketSeat** durante os dias 05, 06 e 07 de fevereiro de 2024.
+O projeto bloco de notas foi desenvolvido durante a **NLW Expert**, um evento de programação promovido pela **RocketSeat** durante os dias 05, 06 e 07 de fevereiro de 2024.
+
+É basicamente um bloco de notas no qual você pode escrever suas anotações ou gravar um áudio e estas serem convertidas automaticamente para texto.
 
 # Tecnologias Utilizadas 🖥
 
-1. ReactJS
-2. Tailwindcss
-3. Vite
-4. HTML
-5. TypeScript
+✅ ReactJS
+✅ Tailwindcss
+✅ Vite
+✅ HTML
+✅ TypeScript
 
 # Author 🤓
 
