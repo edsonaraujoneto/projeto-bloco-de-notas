@@ -4,13 +4,20 @@ O projeto bloco de notas foi desenvolvido durante a **NLW Expert**, um evento de
 
 É basicamente um bloco de notas no qual você pode escrever suas anotações ou gravar um áudio e estas serem convertidas automaticamente para texto.
 
+# Execução 🎬
+
+![Captura de tela de 2024-02-08 21-36-16](https://github.com/edsonaraujoneto/projeto-bloco-de-notas/assets/137104822/7943818d-ed7a-43a2-8f5a-246b92bdd1e5)
+
+Para visualizar, [clique aqui](http://localhost:5174/)
+
+
 # Tecnologias Utilizadas 🖥
 
-✅ ReactJS
-✅ Tailwindcss
-✅ Vite
-✅ HTML
-✅ TypeScript
+1. ReactJS ✅
+2. Tailwindcss ✅
+3. Vite ✅
+4. HTML ✅
+5. TypeScript ✅
 
 # Author 🤓
 
