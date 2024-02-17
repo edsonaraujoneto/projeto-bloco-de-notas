@@ -8,7 +8,7 @@ O projeto bloco de notas foi desenvolvido durante a **NLW Expert**, um evento de
 
 ![Captura de tela de 2024-02-08 21-36-16](https://github.com/edsonaraujoneto/projeto-bloco-de-notas/assets/137104822/7943818d-ed7a-43a2-8f5a-246b92bdd1e5)
 
-Para visualizar, [clique aqui](http://localhost:5174/)
+Para visualizar, [clique aqui](https://edsonblocodenotas.netlify.app/)
 
 
 # Tecnologias Utilizadas 🖥
