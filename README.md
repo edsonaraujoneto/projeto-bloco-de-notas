@@ -19,7 +19,7 @@ Para visualizar, [clique aqui](https://edsonblocodenotas.netlify.app/)
 4. HTML ✅
 5. TypeScript ✅
 
-# Autor 🤓
+# Autor 
 
 <p align="center">
   <img width="200px" alt="Edson Araujo" title="Edson Araujo" src="https://avatars.githubusercontent.com/u/137104822?v=4" />
